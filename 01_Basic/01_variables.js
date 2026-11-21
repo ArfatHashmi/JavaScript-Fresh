@@ -2,6 +2,7 @@ const accountId = 14443;
 let accountEmail = "ar@ar.com";
 var accountPassword = 12345;
  accountCity = "jaipur"; 
+ let accountState;
 
     //  accountId  = this is not allowed becouse its consttent variable 
 
